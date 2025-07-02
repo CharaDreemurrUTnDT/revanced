@@ -6,8 +6,5 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[IconPackStudio]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
-
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
